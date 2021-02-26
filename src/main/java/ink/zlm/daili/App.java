@@ -17,6 +17,6 @@ public class App {
 
 		proxy.save();//执行的是代理的方法
 
-
+		System.out.println();
 	}
 }
